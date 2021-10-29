@@ -1,3 +1,9 @@
+# 20211029/20211030
+- Fix joining not working when joining is only permitted on specific router
+- Forward message to host even when profileID does not match
+- Turn LED on/off based on permit join
+- Fix CC2530 crashing when sending large messages via UART
+
 # 20201127/20201128
 - Fix join failing after some uptime
 - Support PGC410EU
